@@ -1,1 +1,126 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T01:39:32.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.1.2" etag="0v7H5Xbh2ZEfaS_Ymj48" type="github"><diagram id="YK38YRKuFV1pV2RqLIsO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-31T04:48:17.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="1Ua0FkmMctriCc2M3kKQ" version="16.1.2" type="github">
+  <diagram id="YK38YRKuFV1pV2RqLIsO" name="Page-1">
+    <mxGraphModel dx="1038" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-1" value="UTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-20" value="Inspectoría" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-21" value="Docentes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-22" value="Administrador" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-24" value="Sistema SkyNet" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-31" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-24" target="UlLU2R2_6fgx9gXXMEJA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-32" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-1" target="UlLU2R2_6fgx9gXXMEJA-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="388" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-33" value="" style="endArrow=classic;html=1;rounded=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-24" target="UlLU2R2_6fgx9gXXMEJA-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="472" y="105" />
+              <mxPoint x="472" y="15" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-34" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-20" target="UlLU2R2_6fgx9gXXMEJA-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="45" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-35" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-24" target="UlLU2R2_6fgx9gXXMEJA-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="388" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-36" value="" style="endArrow=classic;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-21" target="UlLU2R2_6fgx9gXXMEJA-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-37" value="" style="endArrow=classic;html=1;rounded=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-24" target="UlLU2R2_6fgx9gXXMEJA-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="290" />
+              <mxPoint x="430" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-38" value="" style="endArrow=classic;html=1;rounded=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="UlLU2R2_6fgx9gXXMEJA-22" target="UlLU2R2_6fgx9gXXMEJA-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="472" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-48" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="390" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-49" value="&lt;b&gt;Mostrar acciones disponibles:&lt;/b&gt;&lt;br&gt;- Crear/Modificar/Eliminar fichas de matricula&lt;br&gt;- Generar credencial de salida y biblioteca&lt;br&gt;- Generar certificado de alumno regular&lt;br&gt;- Generar informe de accidente escolar&lt;br&gt;- Ingresar asistencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-50" value="&lt;b&gt;Modificar datos del sistema:&lt;/b&gt;&lt;br&gt;- Ingresar/Modificar/Eliminar Notas&lt;br&gt;- Solicitar informe de notas parcial o semestral&lt;br&gt;- Solicitar informe de notas final&lt;br&gt;- Modificar informe de personalidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="260" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-51" value="&lt;b&gt;Modificar datos del sistema:&lt;/b&gt;&lt;br&gt;- Ingresar/Modificar/Eliminar Notas&lt;br&gt;- Solicitar informe de notas parcial o semestral&lt;br&gt;- Solicitar informe de notas final&lt;br&gt;- Modificar informe de personalidad&lt;br&gt;- Modificar información personal de alumno" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="90" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-52" value="&lt;b&gt;Mostrar acciones disponibles:&lt;/b&gt;&lt;br&gt;- Ingresar/Modificar/Eliminar Notas&lt;br&gt;- Generar informe de notas parcial o semestral&lt;br&gt;- Generar informe de notas final&lt;br&gt;- Generar informe de personalidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-70" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-53" value="&lt;b&gt;Modificar datos del sistema (Cualquier dato)&lt;br&gt;Crear credenciales de acceso para un usuario&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-54" value="&lt;b&gt;Modificar datos del sistema:&lt;/b&gt;&lt;br&gt;- Crear/Modificar/Eliminar fichas de matricula&lt;br&gt;- Crear credencial de salida y biblioteca&lt;br&gt;- Solicitar certificado de alumno regular&lt;br&gt;- Crear informe de accidente escolar&lt;br&gt;- Modificar información personal de alumno&lt;br&gt;- Información sobre asistencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-55" value="&lt;b&gt;Mostrar acciones disponibles (todas las acciones)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UlLU2R2_6fgx9gXXMEJA-56" value="&lt;b&gt;Mostrar acciones disponibles:&lt;/b&gt;&lt;br&gt;- Ingresar/Modificar/Eliminar Notas&lt;br&gt;- Generar informe de notas parcial o semestral&lt;br&gt;- Generar informe de notas final&lt;br&gt;- Generar informe de personalidad" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85" y="420" width="280" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
